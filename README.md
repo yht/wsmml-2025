@@ -24,8 +24,9 @@ Event WORKSHOP “PEMODELAN SPASIAL DAN PEMBELAJARAN MESIN”
 - Geographycally Weighted Regression
 
 ## Google Colab
-+ url https://colab.research.google.com/drive/1ngtFEIaUbJBb8rga6DlqO-oTb04tz4V5?usp=sharing
 + url https://colab.research.google.com/drive/10GOmKWCZF1FXV0ODynIZxhbQLfxEe3Df?usp=sharing
++ url https://colab.research.google.com/drive/1ngtFEIaUbJBb8rga6DlqO-oTb04tz4V5?usp=sharing
++ url https://colab.research.google.com/drive/1c5Z5pdOSkyzuS2NZyqJHgRb2wyNwYLJC?usp=sharing
 
 ## Modul dan Slide
 + [Visual introduction to Machine Learning](https://osf.io/q7nka)
