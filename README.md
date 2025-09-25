@@ -57,7 +57,7 @@ cd wsmml-2025
 
 
 ## Installation
-1. Download [Python installer](https://www.python.org/downloads/).
+1. Download [Python 3.11.9 installer](https://www.python.org/downloads/release/python-3119/).
 2. Install Python in local computer.
 3. Create virtual environment
 ```
