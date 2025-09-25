@@ -32,11 +32,14 @@ Event WORKSHOP “PEMODELAN SPASIAL DAN PEMBELAJARAN MESIN”
 + [Required_Python_Packages.ipynb](examples/Required_Python_Packages.ipynb)
 + [Geographical_Weighted_Regression.ipynb](examples/Geographical_Weighted_Regression.ipynb)
 + [Data_Visualization.ipynb](examples/Data_Visualization.ipynb)
++ [Machine_Learning_Pelatihan_Spasial.ipynb](examples/Machine_Learning_Pelatihan_Spasial.ipynb)
 
 
 ## Data
 + [Data_Olah_Spasial.xlsx](data/Data_Olah_Spasial.xlsx)
 + [Disagregasi_Data.xlsx](data/Disagregasi_Data.xlsx)
++ [Data_Pelatihan.xlsx](data/Data_Pelatihan.xlsx)
++ [Indonesia-Province.json](data/Indonesia_Province.json)
 
 
 ## Clone repository
