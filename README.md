@@ -1,10 +1,12 @@
 # wsmml-2025
 workshop on spatial modeling and machine learning
 
+
 ## Info
 Event WORKSHOP “PEMODELAN SPASIAL DAN PEMBELAJARAN MESIN”
 + Kamis – Jum’at, 25 – 26 September 2025
 + Ruang Conference Hall A, Gedung CRCS Lt. 2, ITB, Bandung
+
 
 ## Tim
 + Prof. Dr. Udjianna Sekteria Pasaribu 
@@ -17,6 +19,7 @@ Event WORKSHOP “PEMODELAN SPASIAL DAN PEMBELAJARAN MESIN”
 + Asrul Irfanullah, M.Si
 + Muhammad Rozzaq Hamidi, M.Si
 
+
 ## Materi Workshop
 - Data Spasial dan Statistika Deskriptif
 - Model Kriging (semivariogram, ordinary kriging)
@@ -24,7 +27,30 @@ Event WORKSHOP “PEMODELAN SPASIAL DAN PEMBELAJARAN MESIN”
 - Hands-on Pembelajaran Mesin (Random Forest, XGBOOST)
 - Geographycally Weighted Regression
 
+
 ## Examples
 + [Required_Python_Packages.ipynb](examples/Required_Python_Packages.ipynb)
 + [Geographical_Weighted_Regression.ipynb](examples/Geographical_Weighted_Regression.ipynb)
 + [Data_Visualization.ipynb](examples/Data_Visualization.ipynb)
+
+
+## Data
++ [Data_Olah_Spasial.xlsx](data/Data_Olah_Spasial.xlsx)
++ [Disagregasi_Data.xlsx](data/Disagregasi_Data.xlsx)
+
+
+## Installation
+1. Download Python installer.
+2. Install Python in local computer.
+3. Create virtual environment
+  ```
+  py -m env wsmml-env
+  ```
+4. Activate virtual environent
+  ```
+  wsmml-env\Script\activate
+  ```
+5. Install packages
+  ```
+  pip install -r requirements.txt
+  ```
