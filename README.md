@@ -40,7 +40,7 @@ Event WORKSHOP “PEMODELAN SPASIAL DAN PEMBELAJARAN MESIN”
 
 
 ## Installation
-1. Download Python installer.
+1. Download [Python installer](https://www.python.org/downloads/).
 2. Install Python in local computer.
 3. Create virtual environment
 ```
