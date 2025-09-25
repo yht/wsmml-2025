@@ -89,17 +89,17 @@ Kamis, 25 September 2025
 Waktu |	Topik | Pemateri
 :- | :- | :-
 10.00 – 10.15 | Pembukaan |	
-10.15 – 11.30	Materi 1: Data Spasial dan Statistika Deskriptif	Prof. Dr. Udjianna Sekteria Pasaribu
-11.30 – 12.00	Diskusi	Dr. Utriweni Mukhaiyar
-12.00 – 13.00	ISHOMA	
-13.00 – 14.15	Materi 2: Pemodelan Kriging	Dr. Kurnia Novita Sari
-14.15 – 15.30	Materi 3: Pembelajaran Mesin	Dr. Sparisoma Viridi,
-Adilan  Widyawan Mahdiyasa, Ph.D.,
-15.30 – 15.45	Refreshment	
-15.45 – 16.30	Praktikum	Dr. Sparisoma Viridi,
-Adilan Widyawan Mahdiyasa, Ph.D.,
-Asrul Irfanullah, M.Si.,
-Muhammad Rozzaq Hamidi, M.Si
+10.15 – 11.30	| Materi 1: Data Spasial dan Statistika Deskriptif | Prof. Dr. Udjianna Sekteria Pasaribu
+11.30 – 12.00	| Diskusi | Dr. Utriweni Mukhaiyar
+12.00 – 13.00	| ISHOMA	
+13.00 – 14.15	| Materi 2: Pemodelan Kriging | Dr. Kurnia Novita Sari
+14.15 – 15.30	| Materi 3: Pembelajaran Mesin| Dr. Sparisoma Viridi,
+ | | Adilan  Widyawan Mahdiyasa, Ph.D.,
+15.30 – 15.45	| Refreshment	
+15.45 – 16.30	| Praktikum | Dr. Sparisoma Viridi,
+ | | Adilan Widyawan Mahdiyasa, Ph.D.,
+ | | Asrul Irfanullah, M.Si.,
+ | | Muhammad Rozzaq Hamidi, M.Si
 
 Jum’at, 26 September 2025	
 Waktu |	Topik | Pemateri
