@@ -54,3 +54,9 @@ Event WORKSHOP “PEMODELAN SPASIAL DAN PEMBELAJARAN MESIN”
   ```
   pip install -r requirements.txt
   ```
+
+## Without Installation
++ Download the examples and data.
++ Open Google Colab.
++ Upload examples and data to Google Colab.
++ Run Jupyter Notebook files in Google Colab.
