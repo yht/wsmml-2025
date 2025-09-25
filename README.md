@@ -23,10 +23,11 @@ Event WORKSHOP “PEMODELAN SPASIAL DAN PEMBELAJARAN MESIN”
 - Pembelajaran Mesin (Random Forest, XGBOOST) 
 - Geographycally Weighted Regression
 
-## Google Colab
-+ url https://colab.research.google.com/drive/10GOmKWCZF1FXV0ODynIZxhbQLfxEe3Df?usp=sharing
-+ url https://colab.research.google.com/drive/1ngtFEIaUbJBb8rga6DlqO-oTb04tz4V5?usp=sharing
-+ url https://colab.research.google.com/drive/1c5Z5pdOSkyzuS2NZyqJHgRb2wyNwYLJC?usp=sharing
+## Examples
++ [Required_Python_Packages.ipynb](examples/Required_Python_Packages.ipynb)
++ [Geographical_Weighted_Regression.ipynb](examples/Geographical_Weighted_Regression.ipynb)
++ [Data_Visualization.ipynb](examples/Data_Visualization.ipynb)
+
 
 ## Modul dan Slide
 + [Visual introduction to Machine Learning](https://osf.io/q7nka)
