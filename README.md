@@ -23,9 +23,9 @@ Event WORKSHOP “PEMODELAN SPASIAL DAN PEMBELAJARAN MESIN”
 ## Materi Workshop
 - Data Spasial dan Statistika Deskriptif
 - Model Kriging (semivariogram, ordinary kriging)
+- Geographycally Weighted Regression
 - [Pengenalan Singkat Pembelajaran Mesin Secara Visual](https://osf.io/q7nka)
 - [Hands-on Pembelajaran Mesin (Random Forest, XGBOOST)](https://drive.google.com/file/d/1FrOhmdM-O74OfOa_YUUf89JNRyspfrhv/view?usp=drive_link)
-- Geographycally Weighted Regression
 
 
 ## Examples
