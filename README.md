@@ -97,26 +97,30 @@ Waktu |	Topik | Pemateri
 &nbsp; | &nbsp; | Adilan  Widyawan Mahdiyasa, Ph.D.,
 15.30 – 15.45	| Refreshment	
 15.45 – 16.30	| Praktikum | Dr. Sparisoma Viridi,
- | | Adilan Widyawan Mahdiyasa, Ph.D.,
- | | Asrul Irfanullah, M.Si.,
- | | Muhammad Rozzaq Hamidi, M.Si
+&nbsp; | &nbsp; | Adilan Widyawan Mahdiyasa, Ph.D.,
+&nbsp; | &nbsp; | Asrul Irfanullah, M.Si.,
+&nbsp; | &nbsp; | Muhammad Rozzaq Hamidi, M.Si
 
 Jum’at, 26 September 2025	
 Waktu |	Topik | Pemateri
 :- | :- | :-
 08.30 – 10.00	| Materi 4: Regresi Spasial | Prof. Dr. Sapto Wahyu Indratno
-10.00 – 10.15	Refreshment	
-10.15 – 11.15	Praktikum 	Adilan Widyawan Mahdiyasa, Ph.D., 
-Asrul Irfanullah, M.Si.,
-Muhammad Rozzaq Hamidi, M.Si
-11.15 – 13.15	ISHOMA	
-13.15 – 14.00	Praktikum 	Adilan  Widyawan Mahdiyasa, Ph.D.,
-Asrul Irfanullah, M.Si.,
-Muhammad Rozzaq Hamidi, M.Si
-14.00 – 15.45	Diskusi 	Dr. Utriweni Mukhaiyar,
-Prof. Dr. Udjianna Sekteria Pasaribu,
-Dr. Kurnia Novita Sari,
-Prof. Dr. Sapto Wahyu Indratno,
-Dr. Sparisoma Viridi,
-Adilan Widyawan Mahdiyasa, Ph.D.,
-Dr. Wahyu Hidayat
+10.00 – 10.15	| Refreshment	
+10.15 – 11.15	| Praktikum | Adilan Widyawan Mahdiyasa, Ph.D., 
+&nbsp; | &nbsp; | Asrul Irfanullah, M.Si.,
+&nbsp; | &nbsp; | Muhammad Rozzaq Hamidi, M.Si
+11.15 – 13.15 | ISHOMA	
+13.15 – 14.00	| Praktikum | Adilan  Widyawan Mahdiyasa, Ph.D.,
+&nbsp; | &nbsp; | Asrul Irfanullah, M.Si.,
+&nbsp; | &nbsp; | Muhammad Rozzaq Hamidi, M.Si
+14.00 – 15.45 | Diskusi | Dr. Utriweni Mukhaiyar,
+&nbsp; | &nbsp; | Prof. Dr. Udjianna Sekteria Pasaribu,
+&nbsp; | &nbsp; | Dr. Kurnia Novita Sari,
+&nbsp; | &nbsp; | Prof. Dr. Sapto Wahyu Indratno,
+&nbsp; | &nbsp; | Dr. Sparisoma Viridi,
+&nbsp; | &nbsp; | Adilan Widyawan Mahdiyasa, Ph.D.,
+&nbsp; | &nbsp; | Dr. Wahyu Hidayat
+
+
+## refs
++ [Malaccha: An R-based end-to-end Markov transition matrix extraction for land cover datasets](https://doi.org/10.1016/j.softx.2023.101315)
