@@ -67,7 +67,7 @@ py -m env wsmml-env
 ```
 wsmml-env\Script\activate
 ```
-5. Install packages
+5. Install packages using [requirements.txt](requirements.txt)
 ```
 pip install -r requirements.txt
 ```
