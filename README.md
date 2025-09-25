@@ -86,8 +86,9 @@ jupyter notebook
 ## Jadwal
 Kamis, 25 September 2025	
 
-Waktu	Topik	Pemateri
-10.00 – 10.15	Pembukaan	
+Waktu |	Topik | Pemateri
+:- | :- | :-
+10.00 – 10.15 | Pembukaan |	
 10.15 – 11.30	Materi 1: Data Spasial dan Statistika Deskriptif	Prof. Dr. Udjianna Sekteria Pasaribu
 11.30 – 12.00	Diskusi	Dr. Utriweni Mukhaiyar
 12.00 – 13.00	ISHOMA	
@@ -101,8 +102,9 @@ Asrul Irfanullah, M.Si.,
 Muhammad Rozzaq Hamidi, M.Si
 
 Jum’at, 26 September 2025	
-Waktu	Topik	Pemateri
-08.30 – 10.00	Materi 4: Regresi Spasial	Prof. Dr. Sapto Wahyu Indratno
+Waktu |	Topik | Pemateri
+:- | :- | :-
+08.30 – 10.00	| Materi 4: Regresi Spasial | Prof. Dr. Sapto Wahyu Indratno
 10.00 – 10.15	Refreshment	
 10.15 – 11.15	Praktikum 	Adilan Widyawan Mahdiyasa, Ph.D., 
 Asrul Irfanullah, M.Si.,
