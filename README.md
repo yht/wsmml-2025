@@ -39,6 +39,20 @@ Event WORKSHOP “PEMODELAN SPASIAL DAN PEMBELAJARAN MESIN”
 + [Disagregasi_Data.xlsx](data/Disagregasi_Data.xlsx)
 
 
+## Clone repository
++ Download [git installer](https://git-scm.com/downloads).
++ Install git-cli.
++ Open git bash.
++ Clone repository
+```
+git clone https://github.com/dudung/wsmml-2025
+```
++ Change folder to `wsmml-2025`
+```
+cd wsmml-2025
+```
+
+
 ## Installation
 1. Download [Python installer](https://www.python.org/downloads/).
 2. Install Python in local computer.
