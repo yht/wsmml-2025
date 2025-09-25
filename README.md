@@ -56,7 +56,7 @@ Event WORKSHOP “PEMODELAN SPASIAL DAN PEMBELAJARAN MESIN”
   ```
 
 ## Without Installation
-+ Download the examples and data.
++ Download the [examples](examples) and [data](data).
 + Open Google Colab.
 + Upload examples and data to Google Colab.
 + Run Jupyter Notebook files in Google Colab.
