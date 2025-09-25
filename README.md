@@ -94,7 +94,7 @@ Waktu |	Topik | Pemateri
 12.00 – 13.00	| ISHOMA	
 13.00 – 14.15	| Materi 2: Pemodelan Kriging | Dr. Kurnia Novita Sari
 14.15 – 15.30	| Materi 3: Pembelajaran Mesin| Dr. Sparisoma Viridi,
- | | Adilan  Widyawan Mahdiyasa, Ph.D.,
+&nbsp; | &nbsp; | Adilan  Widyawan Mahdiyasa, Ph.D.,
 15.30 – 15.45	| Refreshment	
 15.45 – 16.30	| Praktikum | Dr. Sparisoma Viridi,
  | | Adilan Widyawan Mahdiyasa, Ph.D.,
