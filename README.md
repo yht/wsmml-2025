@@ -43,17 +43,21 @@ Event WORKSHOP “PEMODELAN SPASIAL DAN PEMBELAJARAN MESIN”
 1. Download Python installer.
 2. Install Python in local computer.
 3. Create virtual environment
-  ```
-  py -m env wsmml-env
-  ```
+```
+py -m env wsmml-env
+```
 4. Activate virtual environent
-  ```
-  wsmml-env\Script\activate
-  ```
+```
+wsmml-env\Script\activate
+```
 5. Install packages
-  ```
-  pip install -r requirements.txt
-  ```
+```
+pip install -r requirements.txt
+```
+6. Launch Jupyter Notebook
+```
+jupyter notebook
+```
 
 ## Without Installation
 + Download the [examples](examples) and [data](data).
