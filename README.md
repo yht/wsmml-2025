@@ -71,7 +71,12 @@ wsmml-env\Script\activate
 ```
 pip install -r requirements.txt
 ```
-6. Launch Jupyter Notebook
+6. Unduh Geodata (SHP Peta)
+```
+python download-shp.py
+```
+
+7. Launch Jupyter Notebook
 ```
 jupyter notebook
 ```
